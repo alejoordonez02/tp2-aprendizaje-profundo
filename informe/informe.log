@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.2)  4 DEC 2024 13:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.5)  5 DEC 2024 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -240,41 +240,96 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count287
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count288
+)
+(/usr/share/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count289
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip56
+
+(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count290
+)
+(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip57
+\skiplinenumber=\skip58
+\skiprule=\skip59
+\skiphlne=\skip60
+\skiptext=\skip61
+\skiplength=\skip62
+\algomargin=\skip63
+\skipalgocfslide=\skip64
+\algowidth=\dimen169
+\inoutsize=\dimen170
+\inoutindent=\dimen171
+\interspacetitleruled=\dimen172
+\interspacealgoruled=\dimen173
+\interspacetitleboxruled=\dimen174
+\algocf@ruledwidth=\skip65
+\algocf@inoutbox=\box56
+\algocf@inputbox=\box57
+\AlCapSkip=\skip66
+\AlCapHSkip=\skip67
+\algoskipindent=\skip68
+\algocf@nlbox=\box58
+\algocf@hangingbox=\box59
+\algocf@untilbox=\box60
+\algocf@skipuntil=\skip69
+\algocf@capbox=\box61
+\algocf@lcaptionbox=\skip70
+\algoheightruledefault=\skip71
+\algoheightrule=\skip72
+\algotitleheightruledefault=\skip73
+\algotitleheightrule=\skip74
+\c@algocfline=\count291
+\c@algocfproc=\count292
+\c@algocf=\count293
+\algocf@algoframe=\box62
+\algocf@algobox=\box63
 ) (./informe.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `informe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count289
-\scratchdimen=\dimen169
-\scratchbox=\box56
-\nofMPsegments=\count290
-\nofMParguments=\count291
+\scratchcounter=\count294
+\scratchdimen=\dimen175
+\scratchbox=\box64
+\nofMPsegments=\count295
+\nofMParguments=\count296
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count292
-\MPscratchDim=\dimen170
-\MPnumerator=\count293
-\makeMPintoPDFobject=\count294
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen176
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
 \everyMPtoPDFconversion=\toks36
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -324,58 +379,153 @@ Package caption Info: End \AtBeginDocument code.
 <logo-fiuba.png, id=1, 281.05pt x 281.05pt>
 File: logo-fiuba.png Graphic file (type png)
 <use logo-fiuba.png>
-Package pdftex.def Info: logo-fiuba.png  used on input line 25.
+Package pdftex.def Info: logo-fiuba.png  used on input line 28.
 (pdftex.def)             Requested size: 181.18439pt x 181.18364pt.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo-fiuba.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
-
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+(./informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<img/1-training_error.png, id=11, 409.7709pt x 312.56775pt>
+))
+\tf@toc=\write3
+\openout3 = `informe.toc'.
+
+ [1] [2]
+<img/simple_perceptron.png, id=17, 544.0325pt x 202.7575pt>
+File: img/simple_perceptron.png Graphic file (type png)
+<use img/simple_perceptron.png>
+Package pdftex.def Info: img/simple_perceptron.png  used on input line 56.
+(pdftex.def)             Requested size: 317.07614pt x 118.17798pt.
+<img/1-training_error.png, id=18, 409.7709pt x 312.56775pt>
 File: img/1-training_error.png Graphic file (type png)
 <use img/1-training_error.png>
-Package pdftex.def Info: img/1-training_error.png  used on input line 72.
+Package pdftex.def Info: img/1-training_error.png  used on input line 70.
 (pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
-<img/2-desicion_boundary.png, id=12, 435.7881pt x 316.5426pt>
+<img/2-desicion_boundary.png, id=19, 435.7881pt x 316.5426pt>
 File: img/2-desicion_boundary.png Graphic file (type png)
 <use img/2-desicion_boundary.png>
-Package pdftex.def Info: img/2-desicion_boundary.png  used on input line 76.
+Package pdftex.def Info: img/2-desicion_boundary.png  used on input line 74.
 (pdftex.def)             Requested size: 203.83417pt x 148.0602pt.
-<img/3-training_error.png, id=13, 409.7709pt x 312.56775pt>
+<img/3-training_error.png, id=20, 409.7709pt x 312.56775pt>
 File: img/3-training_error.png Graphic file (type png)
 <use img/3-training_error.png>
-Package pdftex.def Info: img/3-training_error.png  used on input line 83.
+Package pdftex.def Info: img/3-training_error.png  used on input line 81.
 (pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
-<img/4-desicion_boundary.png, id=14, 435.7881pt x 316.5426pt>
+<img/4-desicion_boundary.png, id=21, 435.7881pt x 316.5426pt>
 File: img/4-desicion_boundary.png Graphic file (type png)
 <use img/4-desicion_boundary.png>
-Package pdftex.def Info: img/4-desicion_boundary.png  used on input line 87.
+Package pdftex.def Info: img/4-desicion_boundary.png  used on input line 85.
 (pdftex.def)             Requested size: 203.83417pt x 148.0602pt.
-<img/5-training_error.png, id=15, 416.2752pt x 312.56775pt>
+<img/5-training_error.png, id=22, 416.2752pt x 312.56775pt>
 File: img/5-training_error.png Graphic file (type png)
 <use img/5-training_error.png>
-Package pdftex.def Info: img/5-training_error.png  used on input line 94.
+Package pdftex.def Info: img/5-training_error.png  used on input line 92.
 (pdftex.def)             Requested size: 203.83417pt x 153.0546pt.
-<img/6-training_error.png, id=16, 409.7709pt x 312.56775pt>
+<img/6-training_error.png, id=23, 409.7709pt x 312.56775pt>
 File: img/6-training_error.png Graphic file (type png)
 <use img/6-training_error.png>
-Package pdftex.def Info: img/6-training_error.png  used on input line 98.
+Package pdftex.def Info: img/6-training_error.png  used on input line 96.
 (pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
- [1 <./img/1-training_error.png> <./img/2-desicion_boundary.png>] [2 <./img/3-t
-raining_error.png> <./img/4-desicion_boundary.png> <./img/5-training_error.png>
- <./img/6-training_error.png>] (./informe.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+ [3 <./img/simple_perceptron.png> <./img/1-training_error.png> <./img/2-desicio
+n_boundary.png>]
+<img/7-capacity.png, id=35, 416.2752pt x 312.56775pt>
+File: img/7-capacity.png Graphic file (type png)
+<use img/7-capacity.png>
+Package pdftex.def Info: img/7-capacity.png  used on input line 106.
+(pdftex.def)             Requested size: 203.83417pt x 153.0546pt.
+<img/8-capacity.png, id=36, 409.7709pt x 312.56775pt>
+File: img/8-capacity.png Graphic file (type png)
+<use img/8-capacity.png>
+Package pdftex.def Info: img/8-capacity.png  used on input line 110.
+(pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
+<img/9-capacity.png, id=37, 409.7709pt x 312.56775pt>
+File: img/9-capacity.png Graphic file (type png)
+<use img/9-capacity.png>
+Package pdftex.def Info: img/9-capacity.png  used on input line 117.
+(pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
+<img/10-capacity.png, id=38, 409.7709pt x 312.56775pt>
+File: img/10-capacity.png Graphic file (type png)
+<use img/10-capacity.png>
+Package pdftex.def Info: img/10-capacity.png  used on input line 121.
+(pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
+
+[4 <./img/3-training_error.png> <./img/4-desicion_boundary.png> <./img/5-traini
+ng_error.png> <./img/6-training_error.png>] [5 <./img/7-capacity.png> <./img/8-
+capacity.png> <./img/9-capacity.png> <./img/10-capacity.png>]
+<img/multilayer_perceptron.png, id=53, 728.7225pt x 240.9pt>
+File: img/multilayer_perceptron.png Graphic file (type png)
+<use img/multilayer_perceptron.png>
+Package pdftex.def Info: img/multilayer_perceptron.png  used on input line 131.
+
+(pdftex.def)             Requested size: 317.07614pt x 104.81638pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+
+ []
+
+[6 <./img/multilayer_perceptron.png>]
+<img/11-training_error.png, id=62, 416.2752pt x 312.56775pt>
+File: img/11-training_error.png Graphic file (type png)
+<use img/11-training_error.png>
+Package pdftex.def Info: img/11-training_error.png  used on input line 188.
+(pdftex.def)             Requested size: 203.83417pt x 153.0546pt.
+<img/12-training_error.png, id=63, 409.7709pt x 312.56775pt>
+File: img/12-training_error.png Graphic file (type png)
+<use img/12-training_error.png>
+Package pdftex.def Info: img/12-training_error.png  used on input line 192.
+(pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
+ [7]
+<img/13-training_error.png, id=69, 409.7709pt x 312.56775pt>
+File: img/13-training_error.png Graphic file (type png)
+<use img/13-training_error.png>
+Package pdftex.def Info: img/13-training_error.png  used on input line 200.
+(pdftex.def)             Requested size: 317.07614pt x 241.87024pt.
+<img/14-training_error.png, id=70, 409.7709pt x 312.56775pt>
+File: img/14-training_error.png Graphic file (type png)
+<use img/14-training_error.png>
+Package pdftex.def Info: img/14-training_error.png  used on input line 207.
+(pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
+<img/15-training_error.png, id=71, 409.7709pt x 312.56775pt>
+File: img/15-training_error.png Graphic file (type png)
+<use img/15-training_error.png>
+Package pdftex.def Info: img/15-training_error.png  used on input line 210.
+(pdftex.def)             Requested size: 203.83417pt x 155.48222pt.
+ [8 <./img/11-training_error.png> <./img/12-training_error.png> <./img/13-train
+ing_error.png>] [9 <./img/14-training_error.png> <./img/15-training_error.png>]
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 257--264
+
+ []
+
+<img/16-training_error.png, id=87, 422.7795pt x 312.56775pt>
+File: img/16-training_error.png Graphic file (type png)
+<use img/16-training_error.png>
+Package pdftex.def Info: img/16-training_error.png  used on input line 267.
+(pdftex.def)             Requested size: 317.07614pt x 234.43475pt.
+[11]
+<img/17-original_images.png, id=91, 1149.093pt x 117.8001pt>
+File: img/17-original_images.png Graphic file (type png)
+<use img/17-original_images.png>
+Package pdftex.def Info: img/17-original_images.png  used on input line 272.
+(pdftex.def)             Requested size: 452.9679pt x 46.43614pt.
+<img/18-reconstructions.png, id=92, 1149.093pt x 117.8001pt>
+File: img/18-reconstructions.png Graphic file (type png)
+<use img/18-reconstructions.png>
+Package pdftex.def Info: img/18-reconstructions.png  used on input line 277.
+(pdftex.def)             Requested size: 452.9679pt x 46.43614pt.
+ [12 <./img/16-training_error.png> <./img/17-original_images.png> <./img/18-rec
+onstructions.png>] [13] (./informe.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -383,24 +533,29 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6634 strings out of 476014
- 110958 string characters out of 5792005
- 1935187 words of memory out of 5000000
- 28688 multiletter control sequences out of 15000+600000
- 566106 words of font info for 65 fonts, out of 8000000 for 9000
+ 7829 strings out of 476014
+ 132208 string characters out of 5792005
+ 1941187 words of memory out of 5000000
+ 29856 multiletter control sequences out of 15000+600000
+ 567947 words of font info for 71 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 79i,9n,93p,550b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,12n,93p,722b,478s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on informe.pdf (3 pages, 309352 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on informe.pdf (14 pages, 819561 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 163 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

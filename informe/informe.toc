@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Perceptrón simple}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Capacidad del perceptrón}{4}{}%
+\contentsline {section}{\numberline {2}Perceptrón multicapa}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Backpropagation}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Función XOR}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Suma de lineal y trigonométricas}{8}{}%
+\contentsline {section}{\numberline {3}Máquina restringuida de Boltzmann}{10}{}%
+\contentsline {subsection}{\numberline {3.1}Preentrenamiento}{10}{}%
+\contentsline {subsection}{\numberline {3.2}Reconstrucción de MNIST}{11}{}%
