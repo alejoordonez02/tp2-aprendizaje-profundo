@@ -8,3 +8,7 @@
 \contentsline {section}{\numberline {3}Máquina restringuida de Boltzmann}{10}{}%
 \contentsline {subsection}{\numberline {3.1}Preentrenamiento}{10}{}%
 \contentsline {subsection}{\numberline {3.2}Reconstrucción de MNIST}{11}{}%
+\contentsline {section}{\numberline {4}Red convolucional}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Clasificación MNIST}{13}{}%
+\contentsline {section}{\numberline {5}Autoencoder}{14}{}%
+\contentsline {subsection}{\numberline {5.1}MNIST}{15}{}%

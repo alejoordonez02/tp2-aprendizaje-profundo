@@ -290,6 +290,42 @@ luego de pasar por una capa convolucional, la imagen se abstrae a un mapa de fea
 $$
 \text{cantidad de entradas} \times \text{altura del mapa} \times \text{ancho del mapa} \times \text{cantidad de canales del mapa}.
 $$
+Las capas convolucionales convolucionan la entrada y passan el resultado a la capa siguiente. La convolución reduce la cantidad de parámetros, logrando así que sea práctico entrenar redes profundas.\\
+
+\subsection{Clasificación MNIST}
+A continuación se presentan los resultados obtenidos de entrenar una red convolucional para clasificar las imágenes de la base de datos MNIST. La primera arquitectura por la que se optó, consiste en una capa convolucional con 5 filtros de $3 \times 3$ y luego tres capas densas de 3380, 100 y 10 neuronas respectivamente. A continuación se muestra la evolución de la entropía cruzada durante el entrenamiento para el set de entrenamiento y el de evaluación:
+\begin{figure}[H]
+    \includegraphics[width=0.7\textwidth]{img/19-training_error.png}
+    \centering
+\end{figure}
+Luego se buscó encontrar la red convolucional más pequeña que obtuviera un error menor al 10\%. La arquitectura final resultó en una capa convulucional de un sólo kernel de $10 \times 10$ seguida de una dos capas densas de 261 y 10 neuronas respectivamente.\\
+Por último, se entrenaron múltiples perceptrones multicapa para la misma tarea, el perceptrón más pequeño que obtuvo un error menor al 10\% consistió en dos capas de 784 y 10 neuronas respectivamente. Los resultados de estos dos útlimos experimentos se muestran a continuación:
+\begin{figure}[H]
+    \includegraphics[width=0.7\textwidth]{img/20-training_error.png}
+    \centering
+    \caption*{Red convolucional pequeña}
+\end{figure}
+\begin{figure}[H]
+    \includegraphics[width=0.7\textwidth]{img/21-training_error.png}
+    \centering
+    \caption*{Perceptrón multicapa pequeño}
+\end{figure}
+
+\section{Autoencoder}
+Un autoencoder es una red neuronal entrenada para intentar copiar su entrada en su salida, con una arquitectura que busca reducir la dimensionalidad del problema en las capas intermedias.
+
+\subsection{MNIST}
+Se entrenó un autoencoder para reconstruir imágenes de la base de datos MNIST, para luego deshacerse de las capas de decodificación y terminar con una representación de baja dimensionalidad de los datos del set. Esta representación fue utilizada para entrenar un perceptrón multicapa para clasificar las imágenes. A continuación se muestran los resultados del experimento:
+\begin{figure}[H]
+    \includegraphics[width=0.7\textwidth]{img/22-training_error.png}
+    \centering
+    \caption*{Evolución del error del autoencoder}
+\end{figure}
+\begin{figure}[H]
+    \includegraphics[width=0.7\textwidth]{img/23-training_error.png}
+    \centering
+    \caption*{Evolución del error del MLP}
+\end{figure}
 
 % Bibliografía
 \newpage
